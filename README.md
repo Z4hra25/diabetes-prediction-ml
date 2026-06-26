@@ -4,11 +4,18 @@ Machine Learning project for predicting diabetes using the Pima Indians Diabetes
 
 ## Technologies
 - Python
+- Jupyter Notebook
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook
+- Matplotlib
+- Seaborn
 
 ## Models
 - Logistic Regression
 - Decision Tree
+
+## Features
+- Data Preprocessing
+- Hyperparameter Tuning (GridSearchCV)
+- Model Evaluation
